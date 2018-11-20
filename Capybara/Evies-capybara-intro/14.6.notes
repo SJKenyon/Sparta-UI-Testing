@@ -1,0 +1,11 @@
+CAPYBARA
+It's a framework for Selenium. It has methods that are really nicely named and you can use these in Selenium. Really nice DSL
+so we can write Ruby code to interact with our browsers and webpages through Selenium
+
+DSL is domain specific language, e.g the eDSL we're using is Ruby. That's the language through which we are interacting
+with Selenium
+
+Create your new page which is a class then go into the actual page and get all the ids etc and set them up as CONSTANT VARIABLES
+in the initialize
+
+SEE BBC LOGIN ERROR SPEC FOR MY REVELATION ON CLASSES ADN SUPERCLASSES
